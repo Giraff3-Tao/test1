@@ -1,0 +1,4 @@
+/Users/apple/Desktop/sylar/build/CMakeFiles/rebuild_cache.dir
+/Users/apple/Desktop/sylar/build/CMakeFiles/edit_cache.dir
+/Users/apple/Desktop/sylar/build/CMakeFiles/test.dir
+/Users/apple/Desktop/sylar/build/CMakeFiles/sylar.dir

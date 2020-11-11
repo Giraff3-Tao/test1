@@ -1,0 +1,26 @@
+## bin              二进制
+## build            中间文件路径
+## cmake            cmake函数文件
+## CMakeLists.txt   cmake的定义文件
+## lib              库的输出路径
+## sylar            源码
+## tests            测试文件
+
+
+## sylar 日志第一个 使用方法没有宏定义的版本 
+## cd build 
+## cmake ..
+## make 
+	
+
+
+
+
+
+
+
+
+
+
+
+
